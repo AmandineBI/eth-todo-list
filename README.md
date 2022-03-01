@@ -1,6 +1,7 @@
 # eth-todo-list
 
 Follows video https://www.youtube.com/watch?v=coQ5dg8wM2o
+
 Note for the author: Clone from github.com-perso
 
 # Requirements
