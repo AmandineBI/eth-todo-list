@@ -9,3 +9,12 @@ Note for the author: Clone from github.com-perso
 1. Install Ganache and have it running,
 2. Have node.js and npm installed,
 3. Install Truffle 5.0.2.
+
+
+# Commands to deploy
+
+truffle compile
+
+truffle migrate --reset
+
+truffle console
