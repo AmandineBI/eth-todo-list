@@ -25,6 +25,9 @@ truffle console
 # Commands to read the smart contract
 
 > todoList = await TodoList.deployed()
+> 
 > todoList.address
+> 
 > taskCount = await todoList.taskCount()
+> 
 > taskCount.toNumber()
